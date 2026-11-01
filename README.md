@@ -175,7 +175,7 @@ If this repository helped you learn, consider giving it a star. It helps others 
 
 - Author: HASTIAMIRI5
 - GitHub: https://github.com/HASTIAMIRI5
-- Email: your.email@example.com
+- Email: hastiamiri418@gmail.com
 
 ---
 
